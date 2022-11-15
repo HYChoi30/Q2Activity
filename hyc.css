@@ -1,0 +1,38 @@
+/*this is an external css*/
+h1{
+	font-family: Tahoma;
+	color: white;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px darkcyan;
+	text-align: center;
+}
+
+p{
+	text-indent: 25px;
+	color: white;
+}
+
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+
+body{
+	background-color: #212F3C;
+}
+
+img{
+	border-style: solid;
+	border-color: white;
+	float: right;
+}
+
+small{
+	color: white;
+}
+
+hr{
+	border-top: 5px dashed white;
+	border-radius: 1px;
+}
